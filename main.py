@@ -14,8 +14,8 @@ if __name__ == '__main__':
 
     # season_id: 番剧季节ID
     # season_id = 28747  # 凡人修仙传
-    season_id = 43369  # 大道朝天
-    # season_id = 21082961 #牧神记，todo 一开始想观察下是否兼容其他剧，发现接口没数据，如果需要支持，需要进一步排查。
+    # season_id = 43369  # 牧神记
+    season_id = 45969 #牧神记，todo 一开始想观察下是否兼容其他剧，发现接口没数据，如果需要支持，需要进一步排查。
 
     # lists = bilibili_spider.get_bilibili_episodes(season_id,[2,10,2020])
     # exit()

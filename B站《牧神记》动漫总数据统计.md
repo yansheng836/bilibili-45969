@@ -1,29 +1,3 @@
-# B站《牧神记》数据统计
-
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/yansheng836/bilibili-43369/main.yml?style=flat&label=gen) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/yansheng836/bilibili-43369) [![GitHub Issues](https://img.shields.io/github/issues/yansheng836/bilibili-43369)](https://github.com/yansheng836/bilibili-43369/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/yansheng836/bilibili-43369)](https://github.com/yansheng836/bilibili-43369/pulls) [![GitHub Tag](https://img.shields.io/github/v/tag/yansheng836/bilibili-43369)](https://github.com/yansheng836/bilibili-43369/tags) [![GitHub Release](https://img.shields.io/github/v/release/yansheng836/bilibili-43369)](https://github.com/yansheng836/bilibili-43369/releases) ![GitHub Repo stars](https://img.shields.io/github/stars/yansheng836/bilibili-43369) ![GitHub forks](https://img.shields.io/github/forks/yansheng836/bilibili-43369) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4460db83948f4592ab825e8e900ec79f)](https://app.codacy.com/gh/yansheng836/bilibili-43369/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) [![GitHub License](https://img.shields.io/github/license/yansheng836/bilibili-43369)](https://github.com/yansheng836/bilibili-43369/blob/main/LICENSE.txt)
-
-B站《牧神记》数据统计，并对部分TOP数据进行了可视化。每天晚上0点自动更新。
-
-B站爬虫协议：<https://www.bilibili.com/robots.txt>，看了下本项目不违反该规则。如有侵权，请及时联系我进行删除。
-
-GitHub：<https://github.com/yansheng836/bilibili-43369>
-
-GitHub README详见：<https://github.com/yansheng836/bilibili-43369/blob/main/README2.md>
-
-在线网站：<https://yansheng836.github.io/bilibili-43369>
-
-## B站《牧神记》动漫主页
-
-B站《牧神记》动漫主页：<https://www.bilibili.com/bangumi/media/md28339943>
-
-总播放*9586.9万* 追番人数*108.7万* 弹幕总数*15.6万*（2025年11月13日22:23:32）
-
-2024年10月10日开播 已完结, 全16话
-
-简介：踏遍青山人未老，蓦然回首，那剑才下眉间，却在心间。朝天大陆内避居山村的井九，意外收得天生道种的柳十岁为书童。两人凭借机缘来到青山宗，却因为“平平无奇“的井九居然以“天赋卓绝”的天才柳十岁作为仆人，遭人非议。在承剑大会上，井九还结识了神末峰的三无少女赵腊月。“懒”得出奇的井九只想安安静静修行，殊不知命运却将三人卷入了巨大的江湖纷争……太虚之下，青山远不远？不远。
-
-<!-- START_TOC_GENERATED -->
-
 ## B站《牧神记》动漫总数据统计(更新时间：2025-11-13 23:06:15)
 
 ### 表格数据
@@ -329,4 +303,3 @@ B站《牧神记》动漫主页：<https://www.bilibili.com/bangumi/media/md2833
 
 ![评论数TOP10](./images/评论数TOP10.png)
 
-<!-- END_TOC_GENERATED -->

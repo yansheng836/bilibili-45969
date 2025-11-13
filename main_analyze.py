@@ -24,7 +24,7 @@ if __name__ == "__main__":
 
     # print(lists)
     # 1. 总数据转成md
-    project_title = 'B站《大道朝天》动漫总数据统计'
+    project_title = 'B站《牧神记》动漫总数据统计'
     # 添加更新时间，方便知道数据是什么是否更新的
     mtime = time_suffix = (datetime.datetime.fromtimestamp(os.path.getmtime(json_file))).strftime('%Y-%m-%d %H:%M:%S')
     md_content = analyse_util.get_md_content_table(lists, project_title + '(更新时间：%s)' % mtime)
