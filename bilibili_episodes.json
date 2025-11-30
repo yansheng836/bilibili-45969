@@ -464,6 +464,14 @@
         "type_title": "正片"
     },
     {
+        "id": 1524241,
+        "long_title": "知行合一",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep1524241",
+        "title": "59",
+        "type": 0,
+        "type_title": "正片"
+    },
+    {
         "id": 2375218,
         "long_title": "不断更年番，正在热播！",
         "share_url": "https://www.bilibili.com/bangumi/play/ep2375218",
@@ -1164,6 +1172,14 @@
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529102",
         "title": "第59集预告",
+        "type": 1,
+        "type_title": "预告"
+    },
+    {
+        "id": 1529103,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep1529103",
+        "title": "第60集预告",
         "type": 1,
         "type_title": "预告"
     },
