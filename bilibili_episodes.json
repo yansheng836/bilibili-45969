@@ -472,6 +472,14 @@
         "type_title": "正片"
     },
     {
+        "id": 1524242,
+        "long_title": "阴间突袭",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep1524242",
+        "title": "60",
+        "type": 0,
+        "type_title": "正片"
+    },
+    {
         "id": 2375218,
         "long_title": "不断更年番，正在热播！",
         "share_url": "https://www.bilibili.com/bangumi/play/ep2375218",
@@ -1180,6 +1188,14 @@
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529103",
         "title": "第60集预告",
+        "type": 1,
+        "type_title": "预告"
+    },
+    {
+        "id": 1529104,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep1529104",
+        "title": "第61集预告",
         "type": 1,
         "type_title": "预告"
     },
