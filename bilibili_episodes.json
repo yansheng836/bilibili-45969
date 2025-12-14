@@ -480,6 +480,14 @@
         "type_title": "正片"
     },
     {
+        "id": 1524243,
+        "long_title": "调鬼遣神",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep1524243",
+        "title": "61",
+        "type": 0,
+        "type_title": "正片"
+    },
+    {
         "id": 2375218,
         "long_title": "不断更年番，正在热播！",
         "share_url": "https://www.bilibili.com/bangumi/play/ep2375218",
@@ -1196,6 +1204,14 @@
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529104",
         "title": "第61集预告",
+        "type": 1,
+        "type_title": "预告"
+    },
+    {
+        "id": 1529105,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep1529105",
+        "title": "第62集预告",
         "type": 1,
         "type_title": "预告"
     },
