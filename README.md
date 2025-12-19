@@ -14,7 +14,7 @@ GitHub README详见：<https://github.com/yansheng836/bilibili-43369/blob/main/R
 
 ## B站《牧神记》动漫主页
 
-B站《牧神记》动漫主页：<https://www.bilibili.com/bangumi/media/md28339943>
+B站《牧神记》动漫主页：<https://www.bilibili.com/bangumi/media/md21082961>
 
 总播放*9586.9万* 追番人数*108.7万* 弹幕总数*15.6万*（2025年11月13日22:23:32）
 
