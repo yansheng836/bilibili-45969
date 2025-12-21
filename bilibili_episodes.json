@@ -488,6 +488,14 @@
         "type_title": "正片"
     },
     {
+        "id": 1524244,
+        "long_title": "都天魔王",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep1524244",
+        "title": "62",
+        "type": 0,
+        "type_title": "正片"
+    },
+    {
         "id": 2375218,
         "long_title": "不断更年番，正在热播！",
         "share_url": "https://www.bilibili.com/bangumi/play/ep2375218",
@@ -1212,6 +1220,14 @@
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529105",
         "title": "第62集预告",
+        "type": 1,
+        "type_title": "预告"
+    },
+    {
+        "id": 1529106,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep1529106",
+        "title": "第63集预告",
         "type": 1,
         "type_title": "预告"
     },
