@@ -496,6 +496,14 @@
         "type_title": "正片"
     },
     {
+        "id": 1524245,
+        "long_title": "血祭",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep1524245",
+        "title": "63",
+        "type": 0,
+        "type_title": "正片"
+    },
+    {
         "id": 2375218,
         "long_title": "不断更年番，正在热播！",
         "share_url": "https://www.bilibili.com/bangumi/play/ep2375218",
@@ -1228,6 +1236,14 @@
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529106",
         "title": "第63集预告",
+        "type": 1,
+        "type_title": "预告"
+    },
+    {
+        "id": 1529107,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep1529107",
+        "title": "第64集预告",
         "type": 1,
         "type_title": "预告"
     },
