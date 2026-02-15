@@ -552,6 +552,14 @@
         "type_title": "正片"
     },
     {
+        "id": 1524252,
+        "long_title": "寻仇",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep1524252",
+        "title": "70",
+        "type": 0,
+        "type_title": "正片"
+    },
+    {
         "id": 2756445,
         "long_title": "这一剑，有着冲破时代的锋芒！",
         "share_url": "https://www.bilibili.com/bangumi/play/ep2756445",
@@ -1356,6 +1364,14 @@
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529113",
         "title": "第70集预告",
+        "type": 1,
+        "type_title": "预告"
+    },
+    {
+        "id": 1529114,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep1529114",
+        "title": "第71集预告",
         "type": 1,
         "type_title": "预告"
     },
