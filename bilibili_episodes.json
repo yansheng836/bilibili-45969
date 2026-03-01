@@ -568,6 +568,14 @@
         "type_title": "正片"
     },
     {
+        "id": 1524254,
+        "long_title": "不见天日",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep1524254",
+        "title": "72",
+        "type": 0,
+        "type_title": "正片"
+    },
+    {
         "id": 2756445,
         "long_title": "这一剑，有着冲破时代的锋芒！",
         "share_url": "https://www.bilibili.com/bangumi/play/ep2756445",
@@ -1388,6 +1396,14 @@
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529115",
         "title": "第72集预告",
+        "type": 1,
+        "type_title": "预告"
+    },
+    {
+        "id": 1529116,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep1529116",
+        "title": "第73集预告",
         "type": 1,
         "type_title": "预告"
     },
