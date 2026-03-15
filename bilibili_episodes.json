@@ -584,6 +584,14 @@
         "type_title": "正片"
     },
     {
+        "id": 1524256,
+        "long_title": "围剿天魔教主",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep1524256",
+        "title": "74",
+        "type": 0,
+        "type_title": "正片"
+    },
+    {
         "id": 2756445,
         "long_title": "这一剑，有着冲破时代的锋芒！",
         "share_url": "https://www.bilibili.com/bangumi/play/ep2756445",
@@ -1420,6 +1428,14 @@
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529117",
         "title": "第74集预告",
+        "type": 1,
+        "type_title": "预告"
+    },
+    {
+        "id": 1529118,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep1529118",
+        "title": "第75集预告",
         "type": 1,
         "type_title": "预告"
     },
