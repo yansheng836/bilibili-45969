@@ -592,6 +592,14 @@
         "type_title": "正片"
     },
     {
+        "id": 1524257,
+        "long_title": "为了正道",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep1524257",
+        "title": "75",
+        "type": 0,
+        "type_title": "正片"
+    },
+    {
         "id": 2756445,
         "long_title": "这一剑，有着冲破时代的锋芒！",
         "share_url": "https://www.bilibili.com/bangumi/play/ep2756445",
@@ -1436,6 +1444,14 @@
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529118",
         "title": "第75集预告",
+        "type": 1,
+        "type_title": "预告"
+    },
+    {
+        "id": 1529119,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep1529119",
+        "title": "第76集预告",
         "type": 1,
         "type_title": "预告"
     },
