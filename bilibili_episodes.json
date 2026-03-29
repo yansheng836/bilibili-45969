@@ -600,6 +600,14 @@
         "type_title": "正片"
     },
     {
+        "id": 1524258,
+        "long_title": "一剑开皇血汪洋",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep1524258",
+        "title": "76",
+        "type": 0,
+        "type_title": "正片"
+    },
+    {
         "id": 3409107,
         "long_title": "牧儿化身月亮守？祖师、婆婆和爷爷们竟然在.....",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3409107",
@@ -1460,6 +1468,14 @@
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529119",
         "title": "第76集预告",
+        "type": 1,
+        "type_title": "预告"
+    },
+    {
+        "id": 1529120,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep1529120",
+        "title": "第77集预告",
         "type": 1,
         "type_title": "预告"
     },
