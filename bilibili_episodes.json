@@ -608,6 +608,14 @@
         "type_title": "正片"
     },
     {
+        "id": 1524259,
+        "long_title": "枯寂岭",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep1524259",
+        "title": "77",
+        "type": 0,
+        "type_title": "正片"
+    },
+    {
         "id": 3409107,
         "long_title": "牧儿化身月亮守？祖师、婆婆和爷爷们竟然在.....",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3409107",
@@ -1476,6 +1484,14 @@
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529120",
         "title": "第77集预告",
+        "type": 1,
+        "type_title": "预告"
+    },
+    {
+        "id": 1529121,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep1529121",
+        "title": "第78集预告",
         "type": 1,
         "type_title": "预告"
     },
