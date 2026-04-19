@@ -624,6 +624,14 @@
         "type_title": "正片"
     },
     {
+        "id": 3537925,
+        "long_title": "镇海天王",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3537925",
+        "title": "79",
+        "type": 0,
+        "type_title": "正片"
+    },
+    {
         "id": 3409107,
         "long_title": "牧儿化身月亮守？祖师、婆婆和爷爷们竟然在.....",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3409107",
@@ -1508,6 +1516,14 @@
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537951",
         "title": "第79集预告",
+        "type": 1,
+        "type_title": "预告"
+    },
+    {
+        "id": 3537952,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3537952",
+        "title": "第80集预告",
         "type": 1,
         "type_title": "预告"
     },
