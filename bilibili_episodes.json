@@ -640,6 +640,14 @@
         "type_title": "正片"
     },
     {
+        "id": 3537927,
+        "long_title": "借船出行",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3537927",
+        "title": "81",
+        "type": 0,
+        "type_title": "正片"
+    },
+    {
         "id": 3706927,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3706927",
@@ -1548,6 +1556,14 @@
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537953",
         "title": "第81集预告",
+        "type": 1,
+        "type_title": "预告"
+    },
+    {
+        "id": 3537954,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3537954",
+        "title": "第82集预告",
         "type": 1,
         "type_title": "预告"
     },
