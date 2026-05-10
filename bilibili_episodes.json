@@ -648,6 +648,14 @@
         "type_title": "正片"
     },
     {
+        "id": 3537928,
+        "long_title": "禁区",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3537928",
+        "title": "82",
+        "type": 0,
+        "type_title": "正片"
+    },
+    {
         "id": 3706927,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3706927",
@@ -1564,6 +1572,14 @@
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537954",
         "title": "第82集预告",
+        "type": 1,
+        "type_title": "预告"
+    },
+    {
+        "id": 3537955,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3537955",
+        "title": "第83集预告",
         "type": 1,
         "type_title": "预告"
     },
