@@ -656,6 +656,14 @@
         "type_title": "正片"
     },
     {
+        "id": 3537929,
+        "long_title": "一百零八面神禁",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3537929",
+        "title": "83",
+        "type": 0,
+        "type_title": "正片"
+    },
+    {
         "id": 3706927,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3706927",
@@ -1580,6 +1588,14 @@
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537955",
         "title": "第83集预告",
+        "type": 1,
+        "type_title": "预告"
+    },
+    {
+        "id": 3537956,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3537956",
+        "title": "第84集预告",
         "type": 1,
         "type_title": "预告"
     },
