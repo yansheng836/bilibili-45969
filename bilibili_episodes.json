@@ -664,6 +664,14 @@
         "type_title": "正片"
     },
     {
+        "id": 3537930,
+        "long_title": "神船",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3537930",
+        "title": "84",
+        "type": 0,
+        "type_title": "正片"
+    },
+    {
         "id": 3706927,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3706927",
@@ -1596,6 +1604,14 @@
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537956",
         "title": "第84集预告",
+        "type": 1,
+        "type_title": "预告"
+    },
+    {
+        "id": 3537957,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3537957",
+        "title": "第85集预告",
         "type": 1,
         "type_title": "预告"
     },
