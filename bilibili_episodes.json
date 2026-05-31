@@ -672,6 +672,14 @@
         "type_title": "正片"
     },
     {
+        "id": 3537931,
+        "long_title": "下一代人皇",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3537931",
+        "title": "85",
+        "type": 0,
+        "type_title": "正片"
+    },
+    {
         "id": 3706927,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3706927",
@@ -1612,6 +1620,14 @@
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537957",
         "title": "第85集预告",
+        "type": 1,
+        "type_title": "预告"
+    },
+    {
+        "id": 3537958,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3537958",
+        "title": "第86集预告",
         "type": 1,
         "type_title": "预告"
     },
