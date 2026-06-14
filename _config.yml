@@ -4,6 +4,7 @@ description: B站《牧神记》动漫总数据统计与可视化
 lang: zh-CN
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
 
 # 主题特定配置
