@@ -82,6 +82,11 @@ if __name__ == "__main__":
     with open('./%s.md' % project_title, 'w', encoding='utf-8') as f:
         f.write(last_md_content)
 
+    # 4.1 同时生成 index.md（Jekyll 首页，带 front matter）
+    index_md_content = '---\nlayout: default\ntitle: B站《牧神记》数据统计\n---\n\n' + last_md_content
+    with open('./index.md', 'w', encoding='utf-8') as f:
+        f.write(index_md_content)
+
     # 5.将数据更新到README文件中
     readme_path = 'README.md'
     with open(readme_path, 'r', encoding='utf-8') as f:
