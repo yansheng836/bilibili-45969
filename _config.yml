@@ -20,6 +20,6 @@ exclude:
   - util
   - backup_jsondata
   - "*.json"
-  - "*.py
+  - "*.py"
   - .idea
   - README2.md
