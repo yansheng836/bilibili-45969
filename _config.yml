@@ -1,0 +1,25 @@
+remote_theme: yansheng836/jekyll-theme-guofeng
+title: B站《牧神记》数据统计
+description: B站《牧神记》动漫总数据统计与可视化
+lang: zh-CN
+
+plugins:
+  - jekyll-seo-tag
+
+# 主题特定配置
+guofeng:
+  show_toc: true
+  wide_layout: true
+
+# 构建排除
+exclude:
+  - main.py
+  - main_analyze.py
+  - requirements.txt
+  - spider
+  - util
+  - backup_jsondata
+  - "*.json"
+  - "*.py
+  - .idea
+  - README2.md
