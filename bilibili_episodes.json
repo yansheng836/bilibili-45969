@@ -696,6 +696,14 @@
         "type_title": "正片"
     },
     {
+        "id": 3537934,
+        "long_title": "祸根",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3537934",
+        "title": "88",
+        "type": 0,
+        "type_title": "正片"
+    },
+    {
         "id": 3706927,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3706927",
@@ -1660,6 +1668,14 @@
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537960",
         "title": "第88集预告",
+        "type": 1,
+        "type_title": "预告"
+    },
+    {
+        "id": 3537961,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3537961",
+        "title": "第89集预告",
         "type": 1,
         "type_title": "预告"
     },
