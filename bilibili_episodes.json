@@ -712,6 +712,14 @@
         "type_title": "正片"
     },
     {
+        "id": 3537936,
+        "long_title": "请道剑，斩真龙",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3537936",
+        "title": "90",
+        "type": 0,
+        "type_title": "正片"
+    },
+    {
         "id": 4444495,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep4444495",
@@ -1700,6 +1708,14 @@
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537962",
         "title": "第90集预告",
+        "type": 1,
+        "type_title": "预告"
+    },
+    {
+        "id": 3537963,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3537963",
+        "title": "第91集预告",
         "type": 1,
         "type_title": "预告"
     },
