@@ -720,10 +720,26 @@
         "type_title": "正片"
     },
     {
+        "id": 3537937,
+        "long_title": "皇帝，道主，侞莱",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3537937",
+        "title": "91",
+        "type": 0,
+        "type_title": "正片"
+    },
+    {
         "id": 4444495,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep4444495",
         "title": "斩龙篇预热PV",
+        "type": 1,
+        "type_title": "预告"
+    },
+    {
+        "id": 4746383,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep4746383",
+        "title": "牧神记BW2026线下漫展活动",
         "type": 1,
         "type_title": "预告"
     },
@@ -1716,6 +1732,14 @@
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537963",
         "title": "第91集预告",
+        "type": 1,
+        "type_title": "预告"
+    },
+    {
+        "id": 3537964,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3537964",
+        "title": "第92集预告",
         "type": 1,
         "type_title": "预告"
     },
