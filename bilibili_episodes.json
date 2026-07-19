@@ -728,6 +728,14 @@
         "type_title": "正片"
     },
     {
+        "id": 3537938,
+        "long_title": "牛车",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3537938",
+        "title": "92",
+        "type": 0,
+        "type_title": "正片"
+    },
+    {
         "id": 4444495,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep4444495",
@@ -1740,6 +1748,14 @@
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537964",
         "title": "第92集预告",
+        "type": 1,
+        "type_title": "预告"
+    },
+    {
+        "id": 3537965,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3537965",
+        "title": "第93集预告",
         "type": 1,
         "type_title": "预告"
     },
