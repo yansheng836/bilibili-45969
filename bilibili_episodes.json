@@ -736,6 +736,14 @@
         "type_title": "正片"
     },
     {
+        "id": 3537939,
+        "long_title": "弑帝",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3537939",
+        "title": "93",
+        "type": 0,
+        "type_title": "正片"
+    },
+    {
         "id": 4444495,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep4444495",
@@ -1756,6 +1764,14 @@
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537965",
         "title": "第93集预告",
+        "type": 1,
+        "type_title": "预告"
+    },
+    {
+        "id": 3537966,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3537966",
+        "title": "第94集预告",
         "type": 1,
         "type_title": "预告"
     },
