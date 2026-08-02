@@ -744,6 +744,14 @@
         "type_title": "正片"
     },
     {
+        "id": 3537940,
+        "long_title": "厉天行与皇帝",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3537940",
+        "title": "94",
+        "type": 0,
+        "type_title": "正片"
+    },
+    {
         "id": 4444495,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep4444495",
@@ -1772,6 +1780,14 @@
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537966",
         "title": "第94集预告",
+        "type": 1,
+        "type_title": "预告"
+    },
+    {
+        "id": 3537967,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3537967",
+        "title": "第95集预告",
         "type": 1,
         "type_title": "预告"
     },
