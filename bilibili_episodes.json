@@ -760,6 +760,14 @@
         "type_title": "正片"
     },
     {
+        "id": 3537942,
+        "long_title": "延康双雄",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3537942",
+        "title": "96",
+        "type": 0,
+        "type_title": "正片"
+    },
+    {
         "id": 4444495,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep4444495",
@@ -1804,6 +1812,14 @@
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537968",
         "title": "第96集预告",
+        "type": 1,
+        "type_title": "预告"
+    },
+    {
+        "id": 3537969,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3537969",
+        "title": "第97集预告",
         "type": 1,
         "type_title": "预告"
     },
