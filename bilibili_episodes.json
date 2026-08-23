@@ -768,6 +768,14 @@
         "type_title": "正片"
     },
     {
+        "id": 3537943,
+        "long_title": "登基",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3537943",
+        "title": "97",
+        "type": 0,
+        "type_title": "正片"
+    },
+    {
         "id": 4444495,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep4444495",
@@ -1820,6 +1828,14 @@
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537969",
         "title": "第97集预告",
+        "type": 1,
+        "type_title": "预告"
+    },
+    {
+        "id": 3537970,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3537970",
+        "title": "第98集预告",
         "type": 1,
         "type_title": "预告"
     },
