@@ -776,6 +776,14 @@
         "type_title": "正片"
     },
     {
+        "id": 3537944,
+        "long_title": "杀新皇",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3537944",
+        "title": "98",
+        "type": 0,
+        "type_title": "正片"
+    },
+    {
         "id": 4444495,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep4444495",
@@ -1836,6 +1844,14 @@
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537970",
         "title": "第98集预告",
+        "type": 1,
+        "type_title": "预告"
+    },
+    {
+        "id": 3537971,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3537971",
+        "title": "第99集预告",
         "type": 1,
         "type_title": "预告"
     },
