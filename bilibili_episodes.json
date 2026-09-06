@@ -784,6 +784,14 @@
         "type_title": "正片"
     },
     {
+        "id": 3537945,
+        "long_title": "医毒斗法",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3537945",
+        "title": "99",
+        "type": 0,
+        "type_title": "正片"
+    },
+    {
         "id": 4444495,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep4444495",
@@ -1852,6 +1860,14 @@
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537971",
         "title": "第99集预告",
+        "type": 1,
+        "type_title": "预告"
+    },
+    {
+        "id": 3537972,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3537972",
+        "title": "第100集预告",
         "type": 1,
         "type_title": "预告"
     },
