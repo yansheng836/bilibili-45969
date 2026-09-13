@@ -792,6 +792,14 @@
         "type_title": "正片"
     },
     {
+        "id": 3537946,
+        "long_title": "鬼上身",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3537946",
+        "title": "100",
+        "type": 0,
+        "type_title": "正片"
+    },
+    {
         "id": 4444495,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep4444495",
@@ -1868,6 +1876,14 @@
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537972",
         "title": "第100集预告",
+        "type": 1,
+        "type_title": "预告"
+    },
+    {
+        "id": 3537973,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3537973",
+        "title": "第101集预告",
         "type": 1,
         "type_title": "预告"
     },
