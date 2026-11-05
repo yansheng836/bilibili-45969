@@ -13,22 +13,20 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      # 统一时区，替代已弃用的 szenius/set-timezone（该 action 仍在 Node 20 上）
+      TZ: Asia/Shanghai
 
     steps:
-    - name: Set Beijing Timezone
-      uses: szenius/set-timezone@v1.2
-      with:
-        timezoneLinux: "Asia/Shanghai"
-
     # Check out repository under $GITHUB_WORKSPACE, so the job can access it
     - name: Checkout code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v7.0.1
 
-    # Run using Python 3.8 for consistency and aiohttp
-    - name: Set up Python 3.8
-      uses: actions/setup-python@v4
+    # 使用 3.12：3.8 已 EOL，ubuntu-latest 滚动到 26.04 后镜像不再提供 3.8
+    - name: Set up Python 3.12
+      uses: actions/setup-python@v7.1.0
       with:
-        python-version: '3.8'
+        python-version: '3.12'
         architecture: 'x64'
         cache: 'pip'
 
