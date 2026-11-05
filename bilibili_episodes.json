@@ -848,10 +848,26 @@
         "type_title": "正片"
     },
     {
+        "id": 6613853,
+        "long_title": "上苍",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep6613853",
+        "title": "107",
+        "type": 0,
+        "type_title": "正片"
+    },
+    {
         "id": 7154448,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep7154448",
         "title": "二周年主创访谈",
+        "type": 1,
+        "type_title": "预告"
+    },
+    {
+        "id": 7402625,
+        "long_title": "制作特辑",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep7402625",
+        "title": "《牧神记》动画×太平泥叫叫",
         "type": 1,
         "type_title": "预告"
     },
@@ -912,14 +928,6 @@
         "type_title": "预告"
     },
     {
-        "id": 4444495,
-        "long_title": "",
-        "share_url": "https://www.bilibili.com/bangumi/play/ep4444495",
-        "title": "斩龙篇预热PV",
-        "type": 1,
-        "type_title": "预告"
-    },
-    {
         "id": 4746383,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep4746383",
@@ -936,34 +944,10 @@
         "type_title": "预告"
     },
     {
-        "id": 3409107,
-        "long_title": "牧儿化身月亮守？祖师、婆婆和爷爷们竟然在.....",
-        "share_url": "https://www.bilibili.com/bangumi/play/ep3409107",
-        "title": "全新篇章预热PV",
-        "type": 1,
-        "type_title": "预告"
-    },
-    {
-        "id": 2756445,
-        "long_title": "这一剑，有着冲破时代的锋芒！",
-        "share_url": "https://www.bilibili.com/bangumi/play/ep2756445",
-        "title": "南疆平叛篇终战预热PV",
-        "type": 1,
-        "type_title": "预告"
-    },
-    {
         "id": 2656487,
         "long_title": "荧惑星君形态&镇星君形态",
         "share_url": "https://www.bilibili.com/bangumi/play/ep2656487",
         "title": "秦牧双形态PV公布",
-        "type": 1,
-        "type_title": "预告"
-    },
-    {
-        "id": 2375218,
-        "long_title": "不断更年番，正在热播！",
-        "share_url": "https://www.bilibili.com/bangumi/play/ep2375218",
-        "title": "PV",
         "type": 1,
         "type_title": "预告"
     },
@@ -1048,14 +1032,6 @@
         "type_title": "预告"
     },
     {
-        "id": 2178878,
-        "long_title": "",
-        "share_url": "https://www.bilibili.com/bangumi/play/ep2178878",
-        "title": "黄金宫篇PV",
-        "type": 1,
-        "type_title": "预告"
-    },
-    {
         "id": 2051707,
         "long_title": "吴垚滔现场演绎主题曲《天外的天》",
         "share_url": "https://www.bilibili.com/bangumi/play/ep2051707",
@@ -1072,26 +1048,10 @@
         "type_title": "预告"
     },
     {
-        "id": 1836776,
-        "long_title": "",
-        "share_url": "https://www.bilibili.com/bangumi/play/ep1836776",
-        "title": "太学院篇PV",
-        "type": 1,
-        "type_title": "预告"
-    },
-    {
         "id": 1736860,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1736860",
         "title": "秦牧新造型PV",
-        "type": 1,
-        "type_title": "预告"
-    },
-    {
-        "id": 1585302,
-        "long_title": "",
-        "share_url": "https://www.bilibili.com/bangumi/play/ep1585302",
-        "title": "年番全新PV",
         "type": 1,
         "type_title": "预告"
     },
@@ -1116,22 +1076,6 @@
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1225107",
         "title": "苏绣纪录花絮特辑上线！",
-        "type": 1,
-        "type_title": "预告"
-    },
-    {
-        "id": 1214624,
-        "long_title": "与其跪神乞怜，不如站着，做自己的神",
-        "share_url": "https://www.bilibili.com/bangumi/play/ep1214624",
-        "title": "年番PV",
-        "type": 1,
-        "type_title": "预告"
-    },
-    {
-        "id": 1112145,
-        "long_title": "",
-        "share_url": "https://www.bilibili.com/bangumi/play/ep1112145",
-        "title": "开播PV",
         "type": 1,
         "type_title": "预告"
     },
@@ -1176,22 +1120,6 @@
         "type_title": "预告"
     },
     {
-        "id": 836715,
-        "long_title": "放牛娃的传奇人生即将开始",
-        "share_url": "https://www.bilibili.com/bangumi/play/ep836715",
-        "title": "牧神记定档10月27日！",
-        "type": 1,
-        "type_title": "预告"
-    },
-    {
-        "id": 775978,
-        "long_title": "放牧诸神，为芸芸众生而战！",
-        "share_url": "https://www.bilibili.com/bangumi/play/ep775978",
-        "title": "PV",
-        "type": 1,
-        "type_title": "预告"
-    },
-    {
         "id": 1113958,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1113958",
@@ -1200,930 +1128,946 @@
         "type_title": "预告"
     },
     {
+        "id": 4444495,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep4444495",
+        "title": "斩龙篇预热PV",
+        "type": 2,
+        "type_title": "特别花絮"
+    },
+    {
+        "id": 3409107,
+        "long_title": "牧儿化身月亮守？祖师、婆婆和爷爷们竟然在.....",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep3409107",
+        "title": "全新篇章预热PV",
+        "type": 2,
+        "type_title": "特别花絮"
+    },
+    {
+        "id": 2756445,
+        "long_title": "这一剑，有着冲破时代的锋芒！",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep2756445",
+        "title": "南疆平叛篇终战预热PV",
+        "type": 2,
+        "type_title": "特别花絮"
+    },
+    {
+        "id": 2375218,
+        "long_title": "不断更年番，正在热播！",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep2375218",
+        "title": "PV",
+        "type": 2,
+        "type_title": "特别花絮"
+    },
+    {
+        "id": 2178878,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep2178878",
+        "title": "黄金宫篇PV",
+        "type": 2,
+        "type_title": "特别花絮"
+    },
+    {
+        "id": 1836776,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep1836776",
+        "title": "太学院篇PV",
+        "type": 2,
+        "type_title": "特别花絮"
+    },
+    {
+        "id": 1585302,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep1585302",
+        "title": "年番全新PV",
+        "type": 2,
+        "type_title": "特别花絮"
+    },
+    {
+        "id": 1214624,
+        "long_title": "与其跪神乞怜，不如站着，做自己的神",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep1214624",
+        "title": "年番PV",
+        "type": 2,
+        "type_title": "特别花絮"
+    },
+    {
+        "id": 1112145,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep1112145",
+        "title": "开播PV",
+        "type": 2,
+        "type_title": "特别花絮"
+    },
+    {
+        "id": 836715,
+        "long_title": "放牛娃的传奇人生即将开始",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep836715",
+        "title": "牧神记定档10月27日！",
+        "type": 2,
+        "type_title": "特别花絮"
+    },
+    {
+        "id": 775978,
+        "long_title": "放牧诸神，为芸芸众生而战！",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep775978",
+        "title": "PV",
+        "type": 2,
+        "type_title": "特别花絮"
+    },
+    {
         "id": 1112196,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1112196",
         "title": "第2集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1112279,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1112279",
         "title": "第3集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1112280,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1112280",
         "title": "第4集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1112281,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1112281",
         "title": "第5集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1112282,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1112282",
         "title": "第6集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1112283,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1112283",
         "title": "第7集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1112284,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1112284",
         "title": "第8集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1112285,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1112285",
         "title": "第9集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1112286,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1112286",
         "title": "第10集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1112287,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1112287",
         "title": "第11集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1112288,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1112288",
         "title": "第12集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1112289,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1112289",
         "title": "第13集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1112290,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1112290",
         "title": "第14集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1112291,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1112291",
         "title": "第15集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1112292,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1112292",
         "title": "第16集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1112293,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1112293",
         "title": "第17集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1112294,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1112294",
         "title": "第18集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1112295,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1112295",
         "title": "第19集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1112296,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1112296",
         "title": "第20集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1112297,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1112297",
         "title": "第21集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1112298,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1112298",
         "title": "第22集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1112299,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1112299",
         "title": "第23集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1112300,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1112300",
         "title": "第24集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1112301,
         "long_title": "年番定档4月20日",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1112301",
         "title": "第25集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1112302,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1112302",
         "title": "第26集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529070,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529070",
         "title": "第27集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529071,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529071",
         "title": "第28集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529072,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529072",
         "title": "第29集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529073,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529073",
         "title": "第30集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529074,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529074",
         "title": "第31集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529075,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529075",
         "title": "第32集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529076,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529076",
         "title": "第33集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529077,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529077",
         "title": "第34集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529078,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529078",
         "title": "第35集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529079,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529079",
         "title": "第36集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529080,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529080",
         "title": "第37集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529081,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529081",
         "title": "第38集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529082,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529082",
         "title": "第39集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529083,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529083",
         "title": "第40集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529084,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529084",
         "title": "第41集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529085,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529085",
         "title": "第42集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529086,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529086",
         "title": "第43集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529087,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529087",
         "title": "第44集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529088,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529088",
         "title": "第45集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529089,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529089",
         "title": "第46集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529090,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529090",
         "title": "第47集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529091,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529091",
         "title": "第48集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529092,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529092",
         "title": "第49集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529093,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529093",
         "title": "第50集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529094,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529094",
         "title": "第51集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529095,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529095",
         "title": "第52集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529096,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529096",
         "title": "第53集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529097,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529097",
         "title": "第54集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529098,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529098",
         "title": "第55集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529099,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529099",
         "title": "第56集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529100,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529100",
         "title": "第57集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529101,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529101",
         "title": "第58集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529102,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529102",
         "title": "第59集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529103,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529103",
         "title": "第60集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529104,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529104",
         "title": "第61集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529105,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529105",
         "title": "第62集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529106,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529106",
         "title": "第63集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529107,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529107",
         "title": "第64集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529108,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529108",
         "title": "第65集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529109,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529109",
         "title": "第66集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529110,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529110",
         "title": "第67集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529111,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529111",
         "title": "第68集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529112,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529112",
         "title": "第69集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529113,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529113",
         "title": "第70集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529114,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529114",
         "title": "第71集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529115,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529115",
         "title": "第72集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529116,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529116",
         "title": "第73集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529117,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529117",
         "title": "第74集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529118,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529118",
         "title": "第75集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529119,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529119",
         "title": "第76集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529120,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529120",
         "title": "第77集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 1529121,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep1529121",
         "title": "第78集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 3537951,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537951",
         "title": "第79集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 3537952,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537952",
         "title": "第80集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 3537953,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537953",
         "title": "第81集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 3537954,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537954",
         "title": "第82集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 3537955,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537955",
         "title": "第83集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 3537956,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537956",
         "title": "第84集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 3537957,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537957",
         "title": "第85集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 3537958,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537958",
         "title": "第86集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 3537959,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537959",
         "title": "第87集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 3537960,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537960",
         "title": "第88集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 3537961,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537961",
         "title": "第89集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 3537962,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537962",
         "title": "第90集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 3537963,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537963",
         "title": "第91集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 3537964,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537964",
         "title": "第92集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 3537965,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537965",
         "title": "第93集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 3537966,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537966",
         "title": "第94集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 3537967,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537967",
         "title": "第95集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 3537968,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537968",
         "title": "第96集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 3537969,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537969",
         "title": "第97集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 3537970,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537970",
         "title": "第98集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 3537971,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537971",
         "title": "第99集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 3537972,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537972",
         "title": "第100集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 3537973,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537973",
         "title": "第101集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 3537974,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537974",
         "title": "第102集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 3537975,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537975",
         "title": "第103集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 3537976,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep3537976",
         "title": "第104集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 6614049,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep6614049",
         "title": "第105集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 6614050,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep6614050",
         "title": "第106集预告",
-        "type": 1,
-        "type_title": "预告"
+        "type": 2,
+        "type_title": "特别花絮"
     },
     {
         "id": 6614051,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep6614051",
         "title": "第107集预告",
-        "type": 1,
-        "type_title": "预告"
-    },
-    {
-        "id": 7187910,
-        "long_title": "《式微》",
-        "share_url": "https://www.bilibili.com/bangumi/play/ep7187910",
-        "title": "新画面片尾曲MV",
         "type": 2,
         "type_title": "特别花絮"
     },
     {
-        "id": 3583208,
-        "long_title": "《天外的天》",
-        "share_url": "https://www.bilibili.com/bangumi/play/ep3583208",
-        "title": "26年番新画面OP",
-        "type": 2,
-        "type_title": "特别花絮"
-    },
-    {
-        "id": 3583205,
-        "long_title": "《式微》",
-        "share_url": "https://www.bilibili.com/bangumi/play/ep3583205",
-        "title": "26年番新画面ED",
-        "type": 2,
-        "type_title": "特别花絮"
-    },
-    {
-        "id": 2265606,
+        "id": 6614052,
         "long_title": "",
-        "share_url": "https://www.bilibili.com/bangumi/play/ep2265606",
-        "title": "【独家】牧神记全新片尾曲《式微》",
-        "type": 2,
-        "type_title": "特别花絮"
-    },
-    {
-        "id": 2291407,
-        "long_title": "",
-        "share_url": "https://www.bilibili.com/bangumi/play/ep2291407",
-        "title": "牧神记片尾曲《式微》制作花絮公开",
-        "type": 2,
-        "type_title": "特别花絮"
-    },
-    {
-        "id": 2265602,
-        "long_title": "",
-        "share_url": "https://www.bilibili.com/bangumi/play/ep2265602",
-        "title": "【独家】牧神记OP全新画面发布",
-        "type": 2,
-        "type_title": "特别花絮"
-    },
-    {
-        "id": 1587548,
-        "long_title": "《天外的天》",
-        "share_url": "https://www.bilibili.com/bangumi/play/ep1587548",
-        "title": "25年番新画面OP",
-        "type": 2,
-        "type_title": "特别花絮"
-    },
-    {
-        "id": 1587537,
-        "long_title": "《不息》",
-        "share_url": "https://www.bilibili.com/bangumi/play/ep1587537",
-        "title": "25年番新画面ED",
-        "type": 2,
-        "type_title": "特别花絮"
-    },
-    {
-        "id": 1111885,
-        "long_title": "陈楚生《天外的天》",
-        "share_url": "https://www.bilibili.com/bangumi/play/ep1111885",
-        "title": "牧神记OP",
-        "type": 2,
-        "type_title": "特别花絮"
-    },
-    {
-        "id": 1113439,
-        "long_title": "《不息》正式上线",
-        "share_url": "https://www.bilibili.com/bangumi/play/ep1113439",
-        "title": "牧神记ED",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep6614052",
+        "title": "第108集预告",
         "type": 2,
         "type_title": "特别花絮"
     }
