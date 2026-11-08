@@ -856,6 +856,14 @@
         "type_title": "正片"
     },
     {
+        "id": 6613854,
+        "long_title": "相逢何必曾相识",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep6613854",
+        "title": "108",
+        "type": 0,
+        "type_title": "正片"
+    },
+    {
         "id": 7154448,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep7154448",
@@ -2068,6 +2076,14 @@
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep6614052",
         "title": "第108集预告",
+        "type": 2,
+        "type_title": "特别花絮"
+    },
+    {
+        "id": 6614053,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep6614053",
+        "title": "第109集预告",
         "type": 2,
         "type_title": "特别花絮"
     }
