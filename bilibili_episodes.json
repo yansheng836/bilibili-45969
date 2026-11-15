@@ -864,6 +864,14 @@
         "type_title": "正片"
     },
     {
+        "id": 6613855,
+        "long_title": "无忧剑",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep6613855",
+        "title": "109",
+        "type": 0,
+        "type_title": "正片"
+    },
+    {
         "id": 7154448,
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep7154448",
@@ -2084,6 +2092,14 @@
         "long_title": "",
         "share_url": "https://www.bilibili.com/bangumi/play/ep6614053",
         "title": "第109集预告",
+        "type": 2,
+        "type_title": "特别花絮"
+    },
+    {
+        "id": 6614054,
+        "long_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ep6614054",
+        "title": "第110集预告",
         "type": 2,
         "type_title": "特别花絮"
     }
